@@ -1,0 +1,2 @@
+# paimon_sticker_on_argon
+适用于wordpress主题Argon的原神表情包
