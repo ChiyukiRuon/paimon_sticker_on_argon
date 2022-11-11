@@ -1,5 +1,5 @@
 <?php
-function add_sticks($sticksList) {
+function add_stickers($sticksList) {
     $sticks_dir = plugins_url('res/', __FILE__);
     $sticksList[] = array(
         'groupname' => '派蒙的画作',
@@ -9,3 +9,6 @@ function add_sticks($sticksList) {
     );
     return $sticksList;
 }
+
+
+add_filter('argon_emotion_list' , 'add_stickers');
