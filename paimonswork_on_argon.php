@@ -3,7 +3,7 @@
  * Plugin Name: paimon's work
  * Plugin URI:  https://github.com/ChiyukiRuon/paimon_sticker_on_argon
  * Text Domain: paimon_stickers_on_agron
- * Description: 米游舍派蒙的画作部分表情包
+ * Description: 米游舍派蒙的画作部分表情包。图源米游舍
  * Version:     1.0
  * Author:      ChiyukiRUon
  * Author URI:  https://chiyukiruon.top
