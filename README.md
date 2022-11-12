@@ -6,7 +6,7 @@
 ![image](preview.png)
 
 # 安装
-下载压缩包，在Wordpress仪表盘的插件页面中选择上传插件，将下载的zip压缩包上传即可
+[下载](https://github.com/ChiyukiRuon/paimon_sticker_on_argon/releases)压缩包，在Wordpress仪表盘的插件页面中选择上传插件，将下载的zip压缩包上传即可
 
 # 更新历史
 ## 2022.11.11-v1.0  
