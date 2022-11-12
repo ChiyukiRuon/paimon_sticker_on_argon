@@ -5,7 +5,7 @@
  * Text Domain: paimon_stickers_on_agron
  * Description: 米游舍派蒙的画作部分表情包。图源米游舍
  * Version:     1.0
- * Author:      ChiyukiRUon
+ * Author:      ChiyukiRuon
  * Author URI:  https://chiyukiruon.top
  */
 function add_stickers($stickersList) {
